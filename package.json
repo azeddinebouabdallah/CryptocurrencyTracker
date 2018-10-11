@@ -1,0 +1,24 @@
+{
+  "name": "cryptocurrencytracker",
+  "version": "1.0.0",
+  "description": "Cryptocurrency api tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didoudesigner/CryptocurrencyTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didoudesigner/CryptocurrencyTracker/issues"
+  },
+  "homepage": "https://github.com/didoudesigner/CryptocurrencyTracker#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.3.2"
+  }
+}
