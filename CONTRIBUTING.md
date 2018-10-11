@@ -5,7 +5,7 @@ When contributing to this repository, please first discuss the changes you wish 
 
 ## Setting up the environment
 Note that there is a .gitignore file in our repository that ignores node_modules and a file called config.json.
-firstly, when you clone this repository on your local machine, make sure install all the dependencies required 
+Firstly, when you clone this repository on your local machine, make sure install all the dependencies required 
 ```
 npm install
 ```
