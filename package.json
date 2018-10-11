@@ -18,8 +18,10 @@
   "homepage": "https://github.com/didoudesigner/CryptocurrencyTracker#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "chalk": "^2.4.1",
     "express": "^4.16.4",
-    "mongoose": "^5.3.2"
+    "mongoose": "^5.3.2",
+    "node-emoji": "^1.8.1"
   },
   "devDependencies": {
     "mocha": "^5.2.0"

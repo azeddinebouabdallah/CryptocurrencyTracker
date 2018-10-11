@@ -8,15 +8,23 @@ __The work is opensource, so nothing is paied in real__
 
 Secondly, we're planing to add a front-end UI for this API in a *different repository* using **React.js**. with a realtime update for the market changes, and a highly interactive user interface (*UI*), with a super modern User Experience (*UX*).
 
-## The dependencies used
-1. We're using **express** as a main server server. 
-2. **mochajs** as a unit testing framework.
-3. **body-parser** as a middleware.
+## Getting started
+### Prerequests
+Visit the (CONTRIBUTING.md)[CONTRIBUTING.md] file for more details on how to setup the environment.
+
+## Built with
+* **express** - web application framework for Node.js 
+2. **mochajs** - unit testing framework.
+3. **body-parser** - Middleware for express to parse requests bodies to JSON.
 4. **JsonWebToken** for premium purposes.
-   __The list is going to be changed over the time__
+
+__The list is going to be changed over the time__
+
+## Versioning 
+We use [SemVer](https://semver.org/) for versioning.
 
 ## Contributing
-For now we still not planning to open the contributing door. However, if you wish to help us, just send one of the contributors a message.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) file carefully for details on our code conduct, and the process of submitting pull requests to us.
 
 ## Authors
 * Azeddine Bouabdallah: *Full stack web developer* - [GitHub](https://github.com/didoudesigner) - [Personal Blog](https://sedulousdev.com).
