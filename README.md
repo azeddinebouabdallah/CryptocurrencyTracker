@@ -1,12 +1,12 @@
 # Cryptocurrency tracker API
 **Under construction**
-Cryptocurrency tracker API, is basicaly and api that track the currency market changes.
+Cryptocurrency tracker API, is basically an API that tracks the currency market changes.
 ## Project plans
-As a first step, we're creating the Restful-Api with JSON responses. to get the cryptocurrency market state. with illimited requests for *free* for 20 cyrptocurrency.
-Also we're adding a *premium plan*, for the 80 other cryptocurrencies.
-__The work is opensource, so nothing is paied in real__
+As a first step, we're creating the Restful-API with JSON responses. to get the cryptocurrency market state. with illimited requests for *free* for 20 cryptocurrencies.
+Also, we're adding a *premium plan*, for the 80 other cryptocurrencies.
+__The work is opensource, so nothing is paid in real__
 
-Secondly, we're planing to add a front-end UI for this API in a *different repository* using **React.js**. with a realtime update for the market changes, and a highly interactive user interface (*UI*), with a super modern User Experience (*UX*).
+Secondly, we're planning to add a front-end UI for this API in a *different repository* using **React.js**. with a real-time update for the market changes, and a highly interactive user interface (*UI*), with a super modern User Experience (*UX*).
 
 ## Getting started
 ### Prerequests

@@ -24,6 +24,7 @@ make sure you follow this structure
     }
 }
 ```
+
 Options that are required:
 
 | Option      | Required |
