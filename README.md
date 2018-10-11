@@ -10,7 +10,7 @@ Secondly, we're planing to add a front-end UI for this API in a *different repos
 
 ## Getting started
 ### Prerequests
-Visit the (CONTRIBUTING.md)[CONTRIBUTING.md] file for more details on how to setup the environment.
+Visit the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to setup the environment.
 
 ## Built with
 * **express** - web application framework for Node.js 
