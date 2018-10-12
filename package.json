@@ -4,8 +4,8 @@
   "description": "Cryptocurrency api tracker",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "run": "node server.js"
+    "start": "export NODE_ENV='development' || (SET \"NODE_ENV='development'\") && nodemon server.js",
+    "run": "export NODE_ENV='development' || (SET \"NODE_ENV='development'\") && node server.js"
   },
   "repository": {
     "type": "git",
